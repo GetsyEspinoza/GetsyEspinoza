@@ -15,13 +15,13 @@ My journey within psychology and criminal justice has led me to develop a passio
 | Mail Server Protocols                         | <a href="https://github.com/GetsyEspinoza/Network-Address-"> Network Addressing Lab</a>|
 | Malware Detection                             | <a href= "https://github.com/GetsyEspinoza/YARA-Rules/tree/main"> Configuring YARA Rules Lab</a>|
 | Log Management/Analysis                       | Splunk Lab |
-| ____________________________                  | Zeek Lab |
-| _____________________________________________ | Searching Shodan Lab|
-|  ____________________________________________ | Analyzing Firmware Lab|
-|  __________________________________________   | Drawing Secure Topology Lab |
-|  __________________________________________   | Secure AWS IAM Lab|
-|  ________________________________________     | IOC Capstone |
-
+| Analyze Network Traffic                       | Zeek Lab |
+| Discover IoTs                                 | Searching Shodan Lab|
+| Analyze and Manipulate Firmware               | Analyzing Firmware Lab|
+| Designing Secure Network                      | Drawing Secure Topology Lab |
+| Cloud Security Architecture                   | Secure AWS IAM Lab|
+| Collecting Hashes                             | IOC Capstone |
+ 
 
 
 
